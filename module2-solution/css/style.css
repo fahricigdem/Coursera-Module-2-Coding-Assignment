@@ -27,6 +27,7 @@ div {
     font-weight: bold;
     line-height: 1.5rem;
     height: 40vh;
+    overflow: hidden;
 }
 
 div p {
