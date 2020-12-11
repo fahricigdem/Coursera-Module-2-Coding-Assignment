@@ -64,6 +64,7 @@ div p {
 @media (min-width: 768px) and (max-width: 991px) {
     div {
         width: 40%;
+        margin: .5%;
     }
 
 }
@@ -71,6 +72,7 @@ div p {
 @media (max-width: 767px) {
     div {
         width: 90%;
+        margin: .5%;
     }
 }
 
