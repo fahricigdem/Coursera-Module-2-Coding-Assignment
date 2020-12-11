@@ -25,6 +25,7 @@ div {
 
     padding: 0vh 0vh 1vh 1vh;
     font-weight: bold;
+    font-size: smaller;
     line-height: 1.5rem;
     height: 40vh;
     overflow: hidden;
