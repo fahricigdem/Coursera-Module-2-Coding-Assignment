@@ -1,1 +1,1 @@
-# https://fahricigdem.github.io/Coursera-course-HTML-CSS-and-Javascript-for-Web-Developers/module5-solution/
+# https://fahricigdem.github.io/restaurant-website-javascript/module5-solution/index.html
